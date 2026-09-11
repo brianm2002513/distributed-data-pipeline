@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets
+.env
+.env.local
+
+# Pipeline data (scraped listings, history, screenshots)
+data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
