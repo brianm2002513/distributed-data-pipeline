@@ -110,7 +110,6 @@ distributed-data-pipeline/
 
 - Screenshots of each source are saved to `data/` while scraping (gitignored) for easy debugging.
 - API scrapers skip themselves gracefully when keys are missing, so the pipeline still runs browser-only.
-- Developed with AI coding agents (Cursor, GitHub Copilot) as part of a human-reviewed agentic workflow: the problem is broken into tasks, agents get context, and every line they produce is reviewed and tested before it ships.
 
 ## License
 
